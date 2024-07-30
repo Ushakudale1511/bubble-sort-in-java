@@ -12,6 +12,15 @@ Suppose we are trying to sort the elements in ascending order.
 1. First Iteration (Compare and Swap)
 
 Starting from the first index, compare the first and the second elements.
+
+If the first element is greater than the second element, they are swapped.
+
+Now, compare the second and the third elements. Swap them if they are not in order.
+
+The above process goes on until the last element.
+
+
+Starting from the first index, compare the first and the second elements.
 If the first element is greater than the second element, they are swapped.
 Now, compare the second and the third elements. Swap them if they are not in order.
 The above process goes on until the last element.
